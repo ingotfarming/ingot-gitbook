@@ -16,18 +16,18 @@ At a specific stage all NFTs unsold will be burned.
 
 | Name | ID | Max Mintable | Power |
 | :--- | :--- | :--- | :--- |
-|  | 0 | 7000 | 10 |
-|  | 1 | 5425 | 14 |
-|  | 2 | 4204 | 19 |
-|  | 3 | 3258 | 26 |
-|  | 4 | 2525 | 35 |
-|  | 5 | 1957 | 47 |
-|  | 6 | 1516 | 65 |
-|  | 7 | 1175 | 87 |
-|  | 8 | 910 | 118 |
-|  | 9 | 706 | 160 |
-|  | 10 | 547 | 215 |
-|  | 11 | 424 | 290 |
+| Lead | 0 | 7000 | 10 |
+| Aluminium | 1 | 5425 | 14 |
+| Zinc | 2 | 4204 | 19 |
+| Copper | 3 | 3258 | 26 |
+| Tin | 4 | 2525 | 35 |
+| Cobalt | 5 | 1957 | 47 |
+| Silver | 6 | 1516 | 65 |
+| Platinum | 7 | 1175 | 87 |
+| Gold | 8 | 910 | 118 |
+| Palladium | 9 | 706 | 160 |
+| Iridium | 10 | 547 | 215 |
+| Rhodium | 11 | 424 | 290 |
 
 ![Ingot NFTs allocation](../.gitbook/assets/nft-allocation.png)
 
