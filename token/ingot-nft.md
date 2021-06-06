@@ -2,11 +2,11 @@
 
 ## Introduction
 
-INGOT NFT is a Non-Fungible token in Ingot Farming ecosystem. Each NFT represents something of a unique and rare and is characterized by own "power". NFTs play an important role in Ingot Farming economy, in fact this power is used in combination to the others owned in Pool Farming and determine the amount of percentage of tokens to issue compared at the total power of the Pool.
+Ingot NFT is a Non-Fungible token in Ingot Farming ecosystem. Each NFT represents something of a unique and rare and is characterized by own "power". NFTs play an important role in Ingot Farming economy, in fact this power is used in combination to the others owned in Pool Farming and determine the amount of percentage of tokens to issue compared at the total power of the Pool.
 
-INGOT NFTs are limited in numbers by definition, they can be acquired in the Store by trading INGOT Tokens. To increase scarcity at a specific time all NFTs unsold will be burned, at this point the only way to acquire a NFT is by users trading.
+Ingot NFTs are limited in numbers by definition, they can be acquired in the Store by trading Ingot Tokens. To increase scarcity at a specific time all NFTs unsold will be burned, at this point the only way to acquire a NFT is by users trading.
 
-INGOT NFT uses the latest standard ERC-1155 Multi Token, allows for each token ID to represent a new configurable token type, which may have its own supply and "power" attributes.
+Ingot NFT uses the latest standard ERC-1155 Multi Token, allows for each token ID to represent a new configurable token type, which may have its own supply and "power" attributes.
 
 ## NFT Allocation
 
