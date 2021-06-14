@@ -10,7 +10,7 @@ Ingot NFT uses the latest standard ERC-1155 Multi Token, allows for each token I
 
 ## NFT Allocation
 
-At the deploy of contract the following in table will be the attributes of each NFT.
+The following in table will be the details of each NFT at the deploy of contract. 
 
 At a specific stage all NFTs unsold will be burned.
 
