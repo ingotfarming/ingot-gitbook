@@ -12,5 +12,5 @@
 
 **Github**: [https://github.com/ingotfarming?tab=repositories](https://github.com/ingotfarming?tab=repositories)
 
-**Medium**: [https://medium.com/@ingotfarming](https://medium.com/@ingotfarming)
+**Medium**: [https://ingotfarming.medium.com/](https://ingotfarming.medium.com/)
 
