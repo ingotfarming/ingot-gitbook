@@ -1,6 +1,6 @@
 # Pre Sale
 
-Ingot Pre-sale was scheduled on Sep XXth.
+Ingot Pre-sale was scheduled on XX XXth.
 
 Connect here to swap ETH for INGOT
 

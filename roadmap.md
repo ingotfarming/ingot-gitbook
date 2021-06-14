@@ -16,11 +16,11 @@
 
 #### Open INGOT/ETH Uniswap LP Farming
 
-## **2021 Q3 - Launch Governance**
+## **2021 Q4 - Launch Governance**
 
 #### Launch Governance
 
-## **2023 Q4 - BSC Launch**
+## **2021 Q4 - BSC Launch**
 
 #### Start **Pre Sale**
 
