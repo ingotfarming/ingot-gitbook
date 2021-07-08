@@ -1,6 +1,6 @@
 # Pre Sale \(Dxdsale\)
 
-Pesale is held on DxSale launchpad:
+Pesale is held on **DxSale** launchpad on **10 JULY**
 
 [https://dxsale.app/app/v2\_9/defipresale?saleID=597&chain=BSC](https://dxsale.app/app/v2_9/defipresale?saleID=597&chain=BSC)
 
