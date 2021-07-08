@@ -1,4 +1,4 @@
-# Pre Sale \(Dxdsale\)
+# Pre Sale \(DxSale\)
 
 Pesale is held on **DxSale** launchpad on **10 JULY**
 
