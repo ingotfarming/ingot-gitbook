@@ -11,7 +11,7 @@
 
 ## How to guides
 
-* [Pre Sale](how-to-guides/pre-sale.md)
+* [Pre Sale \(Dxdsale\)](how-to-guides/pre-sale.md)
 
 ## Reference
 

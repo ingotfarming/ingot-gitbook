@@ -9,6 +9,10 @@ Holders can use the token to buy new NFTs in the store, until reach the mintable
 
 ## Token Emission
 
+**on BSC\***  
+Afterwards, emissions happen when the Project launches, starting at 10 Ingot tokens per block and halves every 4 weeks until it stabilizes after 24 weeks at 0.15625 INGOT per block:
+
+**on ETH\***  
 Afterwards, emissions happen when the Project launches, starting at 40 Ingot tokens per block and halves every 4 weeks until it stabilizes after 24 weeks at 0.625 INGOT per block:
 
 * 90% to community via yield farming
@@ -16,17 +20,21 @@ Afterwards, emissions happen when the Project launches, starting at 40 Ingot tok
 
 Token spent in the store are immediately burned
 
+**\*thresholds are calculated by current Average Block Time  
+ETH: 14 sec  
+BSC: 3 sec**
+
 ## Token Allocation
 
 ### Circulating supply at launch 3.000.000 INGOT:
 
 * Token Pre-Sale -1.950.000 INGOT
-* Initial LP Uniswap - 1.050.000 INGOT and 600 ETH \(or 0,057%\)
+* Initial LP Pancake - 1.050.000 INGOT and 600 BNB \(or 0,057%\)
 
 ### Circulating supply after 1 year 15.660.000 INGOT:
 
 * Token Pre Sale - 1.950.000 \(10,5%\)
-* Initial LP on Uniswap - 1.050.000 \(5,6%\)
+* Initial LP on Pancake - 1.050.000 \(5,6%\)
 * Community Farming - 14.094.000 \(75,5%\)
 * Team - 1.566.000 \(8,4%\)
 
@@ -34,11 +42,12 @@ Token spent in the store are immediately burned
 
 ## Token Specification
 
-* **Name:** INGOT Token
+* **Name:** Ingot Token
 * **Symbol:** INGOT
-* **Network:** Ethereum 
+* **Network:** BSC 
 * **Spec:** ERC20
 * **Precision:** 18
-* **Smart Contract Address**
-  * **ETH: waiting for launch**
+* **Smart Contract Address:** 0x8708899504703E42be551F4CBbf3a539068ec554
+
+  \*\*\*\*
 

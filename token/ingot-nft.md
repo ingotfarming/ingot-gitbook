@@ -33,12 +33,11 @@ At a specific stage all NFTs unsold will be burned.
 
 ## Token Specification
 
-* **Name:** INGOT NFT
+* **Name:** Ingot NFT
 * **Symbol:** INGOT
-* **Network:** Ethereum 
+* **Network:** BSC 
 * **Spec:** ERC1155
-* **Smart Contract Address**
-* * **ETH: waiting for launch**
+* **Smart Contract Address: waiting to be deployed**
 
 
 
