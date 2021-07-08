@@ -45,7 +45,7 @@ BSC: 3 sec**
 * **Name:** Ingot Token
 * **Symbol:** INGOT
 * **Network:** BSC 
-* **Spec:** ERC20
+* **Spec:** BEP-20
 * **Precision:** 18
 * **Smart Contract Address:** 0x8708899504703E42be551F4CBbf3a539068ec554
 
