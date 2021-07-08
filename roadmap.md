@@ -1,16 +1,16 @@
 # Roadmap
 
-## **2021 Q3 - ETH Launch**
+## **2021 Q3 - BSC Launch**
 
 #### Start Pre Sale
 
-#### Launch Uniswap LP
+#### Launch Pancake LP
 
 #### Open NFTs Store
 
 #### Open NFTs Farming
 
-## **2021 Q3 - Burn unsold NFT** **& Open** **INGOT/ETH Uniswap LP**
+## **2021 Q3 - Burn unsold NFT** **& Open** **INGOT/BNB Pancake LP**
 
 #### Burn unsold Ingot NFTs to encourage scarcity
 
@@ -20,11 +20,11 @@
 
 #### Launch Governance
 
-## **2021 Q4 - BSC Launch**
+## **2021 Q4 - ETH Launch**
 
 #### Start **Pre Sale**
 
-#### **Launch** **on** PancakeSwap
+#### **Launch** **on Uniswap**
 
 #### Open NFTs Store
 
