@@ -47,7 +47,7 @@ BSC: 3 sec**
 * **Network:** BSC 
 * **Spec:** BEP-20
 * **Precision:** 18
-* **Smart Contract Address:** 0x8708899504703E42be551F4CBbf3a539068ec554
+* **Smart Contract Address:** 0x45795Fa0d1685B77C0554Cdd7451012a2095C22E
 
-  \*\*\*\*
+\*\*\*\*
 

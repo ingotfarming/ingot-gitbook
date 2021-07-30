@@ -37,7 +37,7 @@ At a specific stage all NFTs unsold will be burned.
 * **Symbol:** INGOT
 * **Network:** BSC 
 * **Spec:** ERC1155
-* **Smart Contract Address: waiting to be deployed**
+* **Smart Contract Address:** 0xA087B2938DD045d561E0b9A307fCC628bf8038C9
 
 
 
