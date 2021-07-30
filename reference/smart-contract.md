@@ -4,7 +4,7 @@
 
 [https://github.com/ingotfarming?tab=repositories](https://github.com/ingotfarming?tab=repositories)
 
-## Gem Farming Contract Addresses on BSC
+## Ingot Farming Contract Addresses on BSC
 
 **INGOT Token Contract**: 0x45795Fa0d1685B77C0554Cdd7451012a2095C22E  
 **INGOT NFT Contract**: 0xA087B2938DD045d561E0b9A307fCC628bf8038C9  
