@@ -1,4 +1,4 @@
-# Pre Sale \(DxSale\)
+# Pre Sale \(UniCrypt\)
 
 Pesale is held on **UniCrypt** launchpad on 9 **AUGUST**
 

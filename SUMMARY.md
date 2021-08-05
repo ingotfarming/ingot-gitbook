@@ -11,7 +11,7 @@
 
 ## How to guides
 
-* [Pre Sale \(DxSale\)](how-to-guides/pre-sale.md)
+* [Pre Sale \(UniCrypt\)](how-to-guides/pre-sale.md)
 
 ## Reference
 
